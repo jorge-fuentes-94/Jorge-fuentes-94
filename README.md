@@ -1,44 +1,205 @@
-<h1 align="center">Hi 👋, I'm Jorge Fuentes</h1>
-<h3 align="center">A backend developer from Spain</h3>
+# 👋 ¡Hola! Soy Jorge Fuentes Jiménez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge-fuentes-94&label=Profile%20views&color=0e75b6&style=flat" alt="jorge-fuentes-94" /> </p>
+## 🐍 Backend Developer Junior | Python Specialist | 🎲 Dungeon Master
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorge-fuentes-94" alt="jorge-fuentes-94" /></a> </p>
+Desarrollador Backend especializado en **Python** y **Flask**, con experiencia en automatización, testing y análisis de datos. Combino habilidades técnicas sólidas con 4+ años de experiencia en gestión de proyectos y 15+ años liderando grupos como Dungeon Master.
 
-- 🌱 I’m currently learning **JavaScript**
+---
 
-- 👯 I’m looking to collaborate on **Any Open Source Project avaliable**
+### 🛠️ **Tecnologías y Herramientas**
 
-- 📫 How to reach me **Jf7494@gmail.com**
+#### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-- 📄 Know about my experiences [https://es.linkedin.com/in/jorgefuentesjimenez](https://es.linkedin.com/in/jorgefuentesjimenez)
+#### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- ⚡ Fun fact **I make online content about TTRPGs such as Dungeons and Dragons**
+#### **Testing & Quality**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_jorgefuentes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jorgefuentes_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jorgefuentesjimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgefuentesjimenez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/la guarida de jorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="la guarida de jorge" height="30" width="40" /></a>
-</p>
+#### **Data Science & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### **Frontend (Básico)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorge-fuentes-94&show_icons=true&locale=en" alt="jorge-fuentes-94" /></p>
+#### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-<!--
-**jorge-fuentes-94/Jorge-fuentes-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Proyectos Destacados**
 
-Here are some ideas to get you started:
+#### 📊 [Sistema de Gestión de Contactos](https://github.com/jorge-fuentes-94/Sistemagestioncontactos)
+**Python | JSON | Data Validation**
+- Sistema CRUD completo con validación robusta de datos
+- Interfaz de consola intuitiva con manejo de errores
+- Persistencia de datos y operaciones automatizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎬 [Flask Movie API](https://github.com/jorge-fuentes-94/Flask-Movie-Api-Practice)
+**Flask | SQLAlchemy | REST API**
+- API REST con arquitectura MVC
+- Endpoints CRUD con validación de datos
+- Modelos de base de datos relacionales
+
+#### 🔍 [Automatización QA con SWAPI](https://github.com/jorge-fuentes-94/QA-Practice)
+**Python | API Testing | Automation**
+- Suite de testing automatizado para APIs
+- Validación de endpoints y estructura de datos
+- Framework reutilizable con documentación completa
+
+#### 📈 [Análisis de Datos IBM](https://github.com/jorge-fuentes-94/jupyter-ibm-practice)
+**Python | Pandas | Data Science**
+- Pipeline completo de análisis de datos
+- Visualizaciones avanzadas con matplotlib
+- Metodología IBM Data Science aplicada
+
+#### 🎲 [Creador de Fichas D&D](https://github.com/jorge-fuentes-94/ttrpg-sheet-converter)
+**Python | Game Development**
+- Conversor de hojas de personajes para TTRPGs
+- Automatización de procesos de creación de personajes
+- Herramienta práctica para gestión de campañas
+
+#### ⚡ [Spell Randomizer D&D](https://github.com/jorge-fuentes-94/Basic-DvD-Spell-Randomizer)
+**Python | Random Generation**
+- Generador aleatorio de hechizos para D&D
+- API básica para integración en aplicaciones de rol
+- Herramienta útil para DMs y jugadores
+
+---
+
+### 📊 **Estadísticas de GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorge-fuentes-94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-fuentes-94&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorge-fuentes-94&theme=tokyonight" alt="jorge-fuentes-94" />
+</div>
+
+---
+
+### 🎓 **Certificaciones**
+
+- 🏆 **IBM Data Science Professional Certificate** (2025)
+- 🏆 **Google IT Automation with Python Certificate** (2022)
+- 🏆 **OpenCV Computer Vision Bootcamp** (2024)
+- 🏆 **Google Developer Challenge Scholarship** - Front-End Web Developer
+
+---
+
+### 💼 **Experiencia Profesional**
+
+**Técnico de Empleo - Especialista en Digitalización** | Cruz Roja Española  
+*Octubre 2022 - Actualidad*
+
+- 🔹 Gestión de proyectos atendiendo 80-100 personas anualmente
+- 🔹 Implementación de automatización de procesos con Python
+- 🔹 Análisis de datos y reporting con Power BI y Excel avanzado
+- 🔹 Liderazgo de equipos multidisciplinarios (3-10 personas)
+
+---
+
+### 🎲 **Beyond Code: Liderazgo & Creatividad**
+
+#### **🎯 Dungeon Master & Community Leader**
+```python
+class DungeonMaster:
+    def __init__(self):
+        self.experience_years = 15
+        self.games_mastered = ["D&D 5e", "Pathfinder", "PbtA Games"]
+        self.platforms = ["Foundry VTT", "Roll20", "Owlbear Rodeo"]
+        self.organization_tools = ["Obsidian", "Discord", "Custom Scripts"]
+        
+    def leadership_skills(self):
+        return [
+            "Gestión de grupos multidisciplinarios",
+            "Resolución de conflictos en tiempo real",
+            "Facilitación de trabajo en equipo",
+            "Comunicación efectiva y storytelling",
+            "Planificación y organización compleja"
+        ]
+    
+    def creative_projects(self):
+        return {
+            "content_creation": "La Guarida de Jorge (YouTube, TikTok, Twitch)",
+            "community_management": "Discord servers y grupos de juego",
+            "event_organization": "TechRol 2024 - Evento tech + juegos de rol",
+            "technical_tools": "Herramientas Python para gestión de campañas"
+        }
+```
+
+#### **🚀 TechRol 2024 - Conectando Tecnología y Creatividad**
+Co-organizador del primer evento que une **programadores** y **jugadores de rol**, demostrando la intersección entre pensamiento lógico, creatividad y trabajo en equipo.
+
+#### **📺 La Guarida de Jorge - Gestión de Comunidad**
+- **Creación de contenido** en múltiples plataformas (YouTube, TikTok, Twitch)
+- **Gestión de comunidad** Discord con múltiples grupos de juego
+- **Desarrollo de marca personal** y estrategias de engagement
+- **Coordinación de eventos** y actividades comunitarias
+
+---
+
+### 🌟 **Sobre Mí**
+
+```python
+class JorgeFuentes:
+    def __init__(self):
+        self.name = "Jorge Fuentes Jiménez"
+        self.role = "Backend Developer Junior"
+        self.location = "Madrid, España"
+        self.languages = ["Spanish (Native)", "English (B2-C1)"]
+        self.secret_identity = "Dungeon Master"
+        
+    def current_focus(self):
+        return [
+            "Desarrollo de APIs REST con Flask",
+            "Automatización de procesos con Python",
+            "Testing automatizado y QA",
+            "Análisis de datos y Business Intelligence"
+        ]
+    
+    def learning_next(self):
+        return [
+            "Django avanzado",
+            "Microservicios",
+            "Cloud computing (AWS)",
+            "DevOps y CI/CD",
+            "Herramientas avanzadas para gestión de campañas"
+        ]
+    
+    def leadership_experience(self):
+        return {
+            "professional": "4+ años gestionando equipos y proyectos",
+            "creative": "15+ años como DM liderando grupos de juego",
+            "community": "Gestión de La Guarida de Jorge y eventos tech"
+        }
+    
+    def fun_fact(self):
+        return "Combino desarrollo backend con storytelling épico 🐉⚔️"
+    
+    def core_values(self):
+        return [
+            "Trabajo en equipo y colaboración",
+            "Creatividad aplicada a la resolución de problemas",
+            "Liderazgo empático y facilitador",
+            "Aprendizaje continuo y adaptabilidad",
+            "Comunicación clara y efectiva"
+        ]
+```
